@@ -17,7 +17,7 @@
 ---
 
 <p align="center"> 
-This project gets a number that is a multiple of five and will divide it into numbers(5,10,20,50,100) and return them in an array
+Divide a multiple of five into numbers(5,10,20,50,100) 
     <br> 
 </p>
 
@@ -27,14 +27,17 @@ This project gets a number that is a multiple of five and will divide it into nu
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+It is a sample to show how we can use the recursion in a function. 
+The user will insert the number into the form and will submit it. If the number is not a multiple of 5, an error message will appear on the screen and ask the user to try with another number. If the inserted number is a multiple of 5, the function will calculate and return the result. 
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
+Recursion is a process of calling itself. A function that calls itself is called a recursive function.
 
 ```
-Give examples
+function pow(x, n) {
+  return (n == 1) ? x : (x * pow(x, n - 1));
+}
 ```
 
 ### Installing
