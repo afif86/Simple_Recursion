@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> The project get a numberthat is a multiple of five and will devide it to numbers(5,10,20,50,100) and return then in array
     <br> 
 </p>
 
