@@ -16,25 +16,14 @@
 
 ---
 
-<p align="center"> The project get a numberthat is a multiple of five and will devide it to numbers(5,10,20,50,100) and return then in array
+<p align="center"> 
+This project gets a number that is a multiple of five and will divide it into numbers(5,10,20,50,100) and return them in an array
     <br> 
 </p>
 
-## 📝 Table of Contents
-
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Deployment](#deployment)
-- [Usage](#usage)
-- [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
-
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+This project gets a number that is a multiple of five and will divide it into numbers(5,10,20,50,100) and return them in an array
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
